@@ -1,25 +1,26 @@
-# Hack Technology / Project Attempted
-
+# Tensorflow / Sentiment Analysis and Image Learning
 
 ## What you built? 
+Built the following models from the tensor flow tutorials:
+1) (Simple MNIST handwriting prediction)[https://colab.research.google.com/drive/1m2TUPdRvmR85YcsvaCZOuOgI6Rd8b_cO?usp=sharing]
+2) (MNIST article of clothing identifier)[https://colab.research.google.com/drive/1IorVmVCfure8R3BshTu5tdf5sOSpM3ol?usp=sharing]
+3) (Sentiment analysis of movie reviews)[https://colab.research.google.com/drive/1NaCqGPWtWPivjZMpbcXYQOOaY5xk9BHD?usp=sharing]
 
-TODO: Short description of what you attempted to build
-
-Include some screenshots.
-[How?](https://help.github.com/articles/about-readmes/#relative-links-and-image-paths-in-readme-files)
+Screenshots
+-[clothing identifier performance graph](./screenshots/fashion_prediction.png)
+-[sentiment analysis performance](./screenshots/sentimentAnalysisPerformance.png)
 
 ## Who Did What?
-
-TODO: who worked on what part?
+I worked on my own.
 
 ## What you learned
-
-TODO: what worked / what didn't work
+- learned about general ML practices, like building processing layers, splitting/cleaning the data, and compiling models
+- learned and implemented the keras API 
 
 ## Authors
-
-TODO: list of authors
+Tensorflow
 
 ## Acknowledgments
-
-TODO: cite any tutorials followed here
+[TF Beginner's Tutorial](https://www.tensorflow.org/tutorials/quickstart/beginner)
+[TF Beginner Adv Clothing Recognition](https://www.tensorflow.org/tutorials/keras/classification)
+[TF Movie Review Sentiment Analysis](https://www.tensorflow.org/tutorials/keras/text_classification)
